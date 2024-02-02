@@ -20,6 +20,9 @@ header{
     border: none;
     border: 1px solid #797171;
 }
+.fff{
+    flex-direction: column;
+}
 .signup-right input:hover{
     border:1px solid #4933ad ;
 }
